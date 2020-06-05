@@ -66,3 +66,7 @@ If everything went well, you should have a working git repository on your machin
 ## Hard bits
 
 It takes a while to understand Hugo and LoveIt is a fairly advanced theme. If this is your first hugo project I recommend starting with a simpler theme such as [Ananke.](https://themes.gohugo.io/gohugo-theme-ananke/) Remember that each theme requires a different config.toml file. If you don't know where to start look inside the `themes/themeName/exampleSite` to get an idea.
+
+## More Reading
+- My post on [Getting started with Hugo and Netlify](https://lorismarini.dev/hugo-and-netlify/)
+- My post on [Hugo Tips](https://lorismarini.dev/hugo-tips/)
